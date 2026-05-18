@@ -26,6 +26,7 @@ Figma 기반의 UI 설계부터 HTML / CSS / JavaScript 퍼블리싱까지,
 
 **UIUX**
 `Responsive Web` `Design System` `Wireframe` `Prototype` `User-centered Design`
+
 ---
 
 ## 🔄 My Design Process
