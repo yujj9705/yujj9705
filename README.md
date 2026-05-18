@@ -44,22 +44,18 @@ Figma 기반의 UI 설계부터 HTML / CSS / JavaScript 퍼블리싱까지,
 ## 🧠 Design Thinking
 
 ```mermaid
-mindmap
-  root((Design))
-    UX
-      사용자 흐름
-      정보 구조
-      와이어프레임
-      프로토타입
-    UI
-      레이아웃 · 컬러
-      타이포그래피
-      컴포넌트
-      디자인 시스템
-    Web
-      HTML · CSS
-      JavaScript
-      반응형 웹
+flowchart LR
+  A[UX] --> B[사용자 흐름]
+  A --> C[정보 구조]
+  A --> D[와이어프레임 · 프로토타입]
+
+  E[UI] --> F[레이아웃 · 컬러]
+  E --> G[타이포그래피]
+  E --> H[컴포넌트]
+
+  I[Web] --> J[HTML · CSS]
+  I --> K[JavaScript]
+  I --> L[반응형 웹]
 ```
 
 ---
