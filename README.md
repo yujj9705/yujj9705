@@ -1,5 +1,5 @@
 # Designing experiences people actually use.
-### 🍀 Yujeong Choi
+### 🍀 최유정 / Yujeong Choi
 
 안녕하세요.
 사용되는 아름다움에 가치를 두는 UIUX 디자이너이자 웹디자이너입니다.
