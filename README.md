@@ -73,5 +73,7 @@ flowchart LR
 언제든 편하게 연락주세요 :)
 
 📧 E-mail : yuj2905@naver.com
+
 🌐 Portfolio : | 작업 중|
+
 🖼️ Notion : https://bolder-shingle-eec.notion.site/UX-UI-35f65522b1d880fb8ef5e122dc6e3530?source=copy_link
